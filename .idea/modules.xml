@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/techjobs-mvc.iml" filepath="$PROJECT_DIR$/techjobs-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/techjobs-mvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/techjobs-mvc_main.iml" group="techjobs-mvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/techjobs-mvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/techjobs-mvc_test.iml" group="techjobs-mvc" />
+    </modules>
+  </component>
+</project>
